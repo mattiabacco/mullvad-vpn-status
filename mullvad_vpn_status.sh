@@ -20,7 +20,7 @@ vpn_report() {
         if [ $days_left -lt 7 ]; then
             echo "%{F#e87e96} ($days_left days left!)%{F-}"
         else
-            echo "%{F#eceff4} ($days_left days left)%{F-}"
+            echo "%{F#eceff4} %{F-}"
         fi
 	else
 		echo "%{F#ebcb8b} %{F-}"
