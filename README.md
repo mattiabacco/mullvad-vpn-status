@@ -1,6 +1,6 @@
 # mullvad-vpn-status
 
-Shell script that checks [Mullvad](https://mullvad.net/en) status and allows the user to toggle connections. Intended for use with [Polybar](https://github.com/polybar/polybar). 
+Shell script that checks [Mullvad](https://mullvad.net/en) connection status and allows the user to toggle connections. It also checks how many days the account has left, and warns the user when the account will expire within a week. Intended for use with [Polybar](https://github.com/polybar/polybar). 
 
 ## Usage
 
