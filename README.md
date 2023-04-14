@@ -4,7 +4,7 @@ Shell script that checks [Mullvad](https://mullvad.net/en) status and allows the
 
 ## Usage
 
-Download the script and make sure it's executable (`chmod +x mullvad_vpn_status.R`). You'll also need [Fontawesome](https://fontawesome.com/) if you want icons. Then add something like this to your `user_modules.ini`:
+Download the script and make sure it's executable (`chmod +x mullvad_vpn_status.R`). You'll also need [Font Awesome](https://fontawesome.com/) if you want icons. Then add something like this to your `user_modules.ini`:
 
 ```
 [module/vpn]
